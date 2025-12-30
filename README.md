@@ -2,7 +2,7 @@
 A comprehensive manufacturing analysis project that evaluates chemical production cycles and inventory health using two parallel approaches. It demonstrates how to drive business insights through advanced MySQL scripting for logic-heavy reporting and Power BI for executive-level visual analytics.
 
 ## Project Preview
-
+![ERD Preview](ERD.png)
 ## Project Overview
 An end-to-end data solution for a Chemical Manufacturing firm to track the lifecycle of production—from raw material procurement and batch manufacturing to sales and customer distribution. 
 The project solves the challenge of real time inventory visibility and profitability tracking.
