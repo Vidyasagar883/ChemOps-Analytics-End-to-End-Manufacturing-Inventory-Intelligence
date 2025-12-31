@@ -8,7 +8,7 @@ An end-to-end data solution for a Chemical Manufacturing firm to track the lifec
 The project solves the challenge of real time inventory visibility and profitability tracking.
 
 ## Project Workflow
-![Overall Report](Overall Report.PNG)
+![Overall Report](Overall%20Report.PNG)
 ### 1.Schema Design: 
 - Developed a relational schema (ERD) to track Suppliers, Materials, Batches, and Sales.
 
